@@ -20,14 +20,6 @@ burger.addEventListener("click", () => {
   burger.classList.toggle("active");
 });
 
-
-
-
-
-
-
-
-
 const videos = gsap.utils.toArray(".video");
 gsap.set(videos, { opacity: 0});
 
