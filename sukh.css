@@ -43,6 +43,7 @@ nav {
 
 nav svg {
     cursor: pointer;
+    z-index: 1;
 }
 
 .links{
